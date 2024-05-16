@@ -1,0 +1,10 @@
+.container {
+  width: 40em;
+  background-color: azure;
+
+}
+.spacer {
+  width: 40px; /* Ajusta el ancho del separador */
+  height: 10px; /* Ajusta la altura del separador */
+  display: inline-block; /* Permite que el separador ocupe espacio */
+}
